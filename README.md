@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="#türkçe-bölüm-turkish-section">Türkçe</a> | 
+  <a href="#english-description">English</a>
+</div>
+
+---
+
 <br />
 <div align="center">
   <h3 align="center">Basit Otonom Sürüş: Engelden Kaçma / Duvar İzleme</h3>
@@ -122,7 +129,7 @@ Robotun davranışını değiştirmek için kod içerisindeki aşağıdaki deği
 ---
 
 <div align="center">
-  <p><b>Alperen ER</b></p>
+  <p> <b>Alperen ER</b></p>
   <p>
     <a href="https://github.com/AlperenER">
       <img src="https://img.shields.io/badge/GitHub-Profilim-black?style=flat-square&logo=github" alt="GitHub">
@@ -136,7 +143,7 @@ Robotun davranışını değiştirmek için kod içerisindeki aşağıdaki deği
 
 ---
 <div align="center">
-  <h1>🇬🇧 English Description</h1>
+  <h1 id="english-description"> English Description</h1>
 </div>
 ---
 
@@ -262,4 +269,3 @@ The following variables in the code can be edited to change the robot's behavior
     </a>
   </p>
 </div>
-```
