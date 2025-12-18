@@ -131,7 +131,7 @@ Robotun davranışını değiştirmek için kod içerisindeki aşağıdaki deği
 <div align="center">
   <p> <b>Alperen ER</b></p>
   <p>
-    <a href="https://github.com/AlperenER">
+    <a href="https://github.com/alprNer">
       <img src="https://img.shields.io/badge/GitHub-Profilim-black?style=flat-square&logo=github" alt="GitHub">
     </a>
   </p>
@@ -264,7 +264,7 @@ The following variables in the code can be edited to change the robot's behavior
 <div align="center">
   <p><b>Alperen ER</b></p>
   <p>
-    <a href="https://github.com/AlperenER">
+    <a href="https://github.com/alprNer">
       <img src="https://img.shields.io/badge/GitHub-My%20Profile-black?style=flat-square&logo=github" alt="GitHub">
     </a>
   </p>
